@@ -10,7 +10,7 @@
 <h2> 👨‍💻 Virtual Machine Projects:</h2>
 
 <b> • Active Directory Home Lab </b>
-  - [Setting up](https://github.com/KlaraJansi)
+  - [Setting up](https://github.com/KlaraJansi/ActiveDirectoryLab)
 
 <h2> :page_facing_up: Certification </h2>
 <b> • Python Associate (https://wsr.pearsonvue.com/testtaker/authenticate/AuthenticateScoreReport.htm) </b> <br />
