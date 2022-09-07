@@ -7,7 +7,7 @@
 
 <h2> 🌱 I’m currently learning Shells and Privilege Escalation </h2>
 
-<h2> 👨‍💻 Virtual Machine Projects:</h2>
+<h2> 👨‍💻 Projects:</h2>
 
 <b> • Active Directory Home Lab </b>
   - [Setting up](https://github.com/KlaraJansi/ActiveDirectoryLab)
