@@ -5,7 +5,7 @@
 <br />
 <br />
 
-<h2> 🌱 I’m currently learning Shells and Privilege Escalation </h2>
+<h2> 🌱 current learning path SOC Level 1 </h2>
 
 <h2> 👨‍💻 Projects:</h2>
 
