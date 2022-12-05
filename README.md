@@ -13,9 +13,10 @@
   - [Setting up](https://github.com/KlaraJansi/ActiveDirectoryLab)
 
 <h2> :page_facing_up: Certification </h2>
-<b> • Python Associate (https://wsr.pearsonvue.com/testtaker/authenticate/AuthenticateScoreReport.htm) </b> <br />
- - Registration Number: 418148406 Validation Number: 1973022957) <br />
-<b> • Pre Security (https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SUB7GAIER9.png)  </b> <br />
+<b> • Python Associate (https://www.credly.com/badges/4df1283a-9621-404c-95f8-705810acf51c/public_url) </b> <br />
+<b> • Microsoft Security, Compliance, and Identity Fundamentals (https://www.credly.com/badges/e40e030e-2544-4879-b6bd-9d210d9249a0)  </b> <br />
+<b> • Beginner learning path completion (https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QUL5KJ580D.png)  </b> <br />
+<b> • Introduction to Cybersecurity (https://www.credly.com/badges/65831b93-a7c1-4058-ba71-98951eeea888/linked_in_profile)  </b> <br />
 
 <h2> 🤳 Connect with me:</h2>
 
