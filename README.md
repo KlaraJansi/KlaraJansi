@@ -9,10 +9,13 @@
 
 <h2> 👨‍💻 Projects:</h2>
 
-<b> • Active Directory Home Lab </b>
+<b> <a href="https://medium.com/@hackurlife">HackYourLife</a>  blog on Medium.com </b> 
+  - Explore "HackYourLife" blog for actionable advice on hacking, cybersecurity, and personal development to boost your online security and life skills. 
+
+<b> Active Directory Home Lab </b>
   - [Setting up](https://github.com/KlaraJansi/ActiveDirectoryLab)
 
-<b> • Try Hack Me </b>
+<b> Try Hack Me </b>
   - [Answers](https://github.com/KlaraJansi/TryHackMe)
 
 <h2> :page_facing_up: Certification </h2>
