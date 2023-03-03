@@ -2,7 +2,8 @@
 <h1>Hi, I'm Klara! </h1>
 
 <img align="left" alt="Klara Jansikova | Badge" width="240px" src="https://tryhackme-badges.s3.amazonaws.com/kjan.png" />
-<br />
+
+<br /><br />
 
 <h2> 🌱 current learning path SOC Level 1 </h2>
 
