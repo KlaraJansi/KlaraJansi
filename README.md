@@ -9,7 +9,7 @@
 
 <h2> 👨‍💻 Projects:</h2>
 
-<b> <a href="https://hacklife.medium.com/">HackYourLife</a>  blog on Medium.com </b> 
+<b> <a href="https://medium.com/@hack-your-life">HackYourLife</a>  blog on Medium.com </b> 
   - Explore "HackYourLife" blog for actionable advice on hacking, cybersecurity, and personal development to boost your online security and life skills. 
 
 <b> Active Directory Home Lab </b>
@@ -35,7 +35,7 @@
 
 [tryhackme]: https://tryhackme.com/p/kjan
 [linkedin]: https://www.linkedin.com/in/klara-jan/
-[HackYourLife]: https://hacklife.medium.com/
+[HackYourLife]: https://medium.com/@hack-your-life
 
 
 
