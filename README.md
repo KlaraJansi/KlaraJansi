@@ -33,6 +33,12 @@
 [<img align="left" alt="Klara Jansikova | Medium" width="22px" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACXpg8cm0XzfCIs1qaUSYqq-l6Ge7Q_pE4?v=1603320488672" />][HackYourLife]
 [<img align="left" alt="Klara Jansikova | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/121/121503.png" />][Twitter]
 
+</br>
+</br>
+
+Nostr: npub1rk6gurkqskpwuctzmv7ahahssdmg2pf9stgw2t6yuhtmt66x4jgsfn743y
+
+
 
 [tryhackme]: https://tryhackme.com/p/kjan
 [linkedin]: https://www.linkedin.com/in/klara-jan/
