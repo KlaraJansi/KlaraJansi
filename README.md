@@ -31,7 +31,7 @@
 [<img align="left" alt="Klara Jansikova | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Klara Jansikova | TryHackMe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.10.0/icons/tryhackme.svg" />][tryhackme]
 [<img align="left" alt="Klara Jansikova | Medium" width="22px" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACXpg8cm0XzfCIs1qaUSYqq-l6Ge7Q_pE4?v=1603320488672" />][HackYourLife]
-[<img align="left" alt="Klara Jansikova | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25347.png" />][Twitter]
+[<img align="left" alt="Klara Jansikova | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/121/121503.png" />][Twitter]
 
 
 [tryhackme]: https://tryhackme.com/p/kjan
