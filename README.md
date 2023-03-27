@@ -13,7 +13,8 @@
   - Explore "HackYourLife" blog for actionable advice on hacking, cybersecurity, and personal development to boost your online security and life skills. 
 
 <b> Active Directory Home Lab </b>
-  - [Setting up](https://github.com/KlaraJansi/ActiveDirectoryLab)
+  - [Setting up](https://github.com/KlaraJansi/ActiveDirectoryLab/blob/main/Set%20it%20up!.md)
+  - [Add Users](https://github.com/KlaraJansi/ActiveDirectoryLab/blob/main/Set%20it%20up!.md)
 
 <b> Try Hack Me </b>
   - [Answers](https://github.com/KlaraJansi/TryHackMe)
