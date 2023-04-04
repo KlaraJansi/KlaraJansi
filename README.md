@@ -21,11 +21,11 @@
 
 <h2> :page_facing_up: Certification </h2>
 
-<a href="https://www.credly.com/earner/earned/badge/3af99b5f-4b34-4e28-af63-b08dde7bf789">CompTIA Network+ </a> <br/>
-<a href="https://www.credly.com/badges/65831b93-a7c1-4058-ba71-98951eeea888/linked_in_profile/" target="_top">Introduction to Cybersecurity</a> <br/>
-<a href="https://www.credly.com/badges/65831b93-a7c1-4058-ba71-98951eeea888/linked_in_profile/" target="_top">Beginner learning path completion</a> <br/>
+<a href="https://www.credly.com/badges/3af99b5f-4b34-4e28-af63-b08dde7bf789/public_url">CompTIA Network+ </a> <br/>
+<a href="https://www.credly.com/badges/65831b93-a7c1-4058-ba71-98951eeea888/public_url" target="_top">Introduction to Cybersecurity</a> <br/>
+<a href="https://www.credly.com/badges/8737d303-ca4d-49af-b984-bae535435c5c/public_url" target="_top">Beginner learning path completion</a> <br/>
 <a href="https://www.credly.com/badges/4df1283a-9621-404c-95f8-705810acf51c/public_url" target="_top">Python Associate</a> <br/>
-<a href="https://www.credly.com/badges/e40e030e-2544-4879-b6bd-9d210d9249a0" target="_top">Microsoft Security, Compliance, and Identity Fundamentals </a> <br/>
+<a href="https://www.credly.com/badges/e40e030e-2544-4879-b6bd-9d210d9249a0/public_url" target="_top">Microsoft Security, Compliance, and Identity Fundamentals </a> <br/>
 
 <h2> 🤳 Connect with me:</h2>
 
